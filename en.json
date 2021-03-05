@@ -351,12 +351,12 @@
     "resentmentExp": "What percentage of the 8 cards are used to suspend",
     "usage": "Usage rate",
     "usageExp": "Percentage of cards actually used",
-    "wIconSymbol": "IN",
-    "wIconExp": "Stands for a game won",
+    "wIconSymbol": "W",
+    "wIconExp": "Stands for a won game",
     "lIconSymbol": "L",
     "lIconExp": "Stands for a lost game",
     "tIconSymbol": "T",
-    "tIconExp": "Stands for a completed team tac game",
+    "tIconExp": "Stands for a completed team-tac game",
     "expHeader": "Statements of statistics",
     "lastGamesHeader": "Last games:"
   }
